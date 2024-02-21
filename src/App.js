@@ -55,7 +55,9 @@ function App() {
   useEffect(()=>{
     const handler=(e)=>{
       e.preventDefault();
-      setInstall(e.prompt);
+      deferredPrompt.current=e;
+      console.log("Change prompt", deferredPrompt);
+      setInstall(true);
     };
     window.addEventListener('beforeinstallprompt',handler);
     return()=>{

@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MoteurDeRechercheDeJeuxVideo/static/css/main.f8b6171f.css",
-    "main.js": "/MoteurDeRechercheDeJeuxVideo/static/js/main.b1463717.js",
+    "main.js": "/MoteurDeRechercheDeJeuxVideo/static/js/main.60df1d59.js",
     "static/js/592.8584ec1f.chunk.js": "/MoteurDeRechercheDeJeuxVideo/static/js/592.8584ec1f.chunk.js",
     "service-worker.js": "/MoteurDeRechercheDeJeuxVideo/service-worker.js",
     "index.html": "/MoteurDeRechercheDeJeuxVideo/index.html",
     "main.f8b6171f.css.map": "/MoteurDeRechercheDeJeuxVideo/static/css/main.f8b6171f.css.map",
-    "main.b1463717.js.map": "/MoteurDeRechercheDeJeuxVideo/static/js/main.b1463717.js.map",
+    "main.60df1d59.js.map": "/MoteurDeRechercheDeJeuxVideo/static/js/main.60df1d59.js.map",
     "592.8584ec1f.chunk.js.map": "/MoteurDeRechercheDeJeuxVideo/static/js/592.8584ec1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8b6171f.css",
-    "static/js/main.b1463717.js"
+    "static/js/main.60df1d59.js"
   ]
 }
